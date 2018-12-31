@@ -1,21 +1,21 @@
 .header_area {
-	background: #26b7e7;
+	background: #A8E2F5;
 }
 .about_person_area .person_details h3 span {
 	color: #26b7e7;
 }
 .download_btn {
-	background: #26b7e7;
+	background: #A8E2F5;
 }
 .myskill_area .skill_item_inner .single_skill .progress .progress-bar {
-	background: #26b7e7;
+	background: #51C5EB;
 }
 .education_area .education_inner_area .education_item h6 {
 	color: #26b7e7;
 }
 .education_area .education_inner_area .education_item::before {
 	border: 4px solid #3dbfea;
-	background: #26b7e7;
+	background: #E9F7FC;
 }
 .education_area .education_inner_area .education_item::after {
 	background: #3dbfea;
@@ -24,7 +24,7 @@
 	background: #3dbfea;
 }
 .service_area {
-	background: #26b7e7;
+	background: #A8E2F5;
 }
 .portfolio_area .porfolio_menu .causes_filter li a::before {
 	background: #26b7e7;
